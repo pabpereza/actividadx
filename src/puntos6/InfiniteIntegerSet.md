@@ -1,4 +1,4 @@
-### 3. Infinite Integer Set
+### Infinite Integer Set
 
 ## 1. Enunciado del Ejercicio
 

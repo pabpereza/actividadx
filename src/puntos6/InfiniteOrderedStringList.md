@@ -1,3 +1,5 @@
+### Infinite Ordered String List
+
 ## 1. Enunciado del ejercicio
 
 Implementar la clase `InfiniteOrderedStringList` dentro del paquete `extra1`, que represente una lista ordenada e ilimitada de palabras (`String`) en la que no se admiten elementos `null`. La clase debe usar como estructura de datos auxiliar una lista enlazada de nodos. Es tarea tuya construir una clase apropiada para representar este nodo, que también debe pertenecer al mismo paquete.

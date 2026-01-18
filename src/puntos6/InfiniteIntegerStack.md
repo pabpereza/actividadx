@@ -1,4 +1,4 @@
-### 1. Infinite Integer Stack
+### Infinite Integer Stack
 
 **Ejercicio 1 (6 puntos)**
 
